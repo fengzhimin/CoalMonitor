@@ -1,0 +1,34 @@
+﻿生成启动时间为 2015/11/7 18:58:49。
+     1>项目“D:\内蒙古项目\CoalMonitor\ClientCode\ClientCode\ClientCode\ClientCode.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"D:\Program Files (x86)\Microsoft Speech SDK 5.1\Include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\ClientCode.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ClientCodeDlg.cpp
+         ClientCodeDlg.cpp
+     1>d:\内蒙古项目\coalmonitor\clientcode\clientcode\clientcode\hcnetsdk.h(1024): warning C4005: “ZOOM_IN”: 宏重定义
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(475) : 参见“ZOOM_IN”的前一个定义
+     1>d:\内蒙古项目\coalmonitor\clientcode\clientcode\clientcode\hcnetsdk.h(1025): warning C4005: “ZOOM_OUT”: 宏重定义
+                 d:\program files (x86)\microsoft visual studio 11.0\vc\atlmfc\include\afxpriv.h(473) : 参见“ZOOM_OUT”的前一个定义
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\内蒙古项目\CoalMonitor\ClientCode\ClientCode\Debug\ClientCode.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\内蒙古项目\CoalMonitor\ClientCode\ClientCode\Debug\ClientCode.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\内蒙古项目\CoalMonitor\ClientCode\ClientCode\Debug\ClientCode.lib" /MACHINE:X86 Debug\ClientCode.res
+         Debug\CarCardInfo.obj
+         Debug\ClientCode.obj
+         Debug\ClientCodeDlg.obj
+         Debug\ConfigDlg.obj
+         Debug\DeviceOperation.obj
+         Debug\Login.obj
+         Debug\OperateDataBase.obj
+         Debug\ParaSet.obj
+         Debug\ReadCarCard.obj
+         Debug\Serial.obj
+         Debug\stdafx.obj
+         Debug\tb_AgreementAndCarCardInfo.obj
+         Debug\tb_AgreementInfo.obj
+         Debug\tb_CarCheckInfo.obj
+         Debug\tb_MerchantInfo.obj
+         Debug\VideoConfig.obj
+         Debug\WriteCarCard.obj
+         ClientCode.vcxproj -> D:\内蒙古项目\CoalMonitor\ClientCode\ClientCode\Debug\ClientCode.exe
+     1>已完成生成项目“D:\内蒙古项目\CoalMonitor\ClientCode\ClientCode\ClientCode\ClientCode.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.78
